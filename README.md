@@ -93,11 +93,5 @@ Top 5 most important features influencing booking predictions:
 - Evaluating models using cross-validation and proper metrics
 - Translating technical insights into business decisions
 
----
 
-## Requirements
 
-Install all packages with:
-
-```bash
-pip install -r requirements.txt
