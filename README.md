@@ -4,7 +4,7 @@ This project uses machine learning to predict whether a customer will complete a
 
 ---
 
-##Project Overview
+## Project Overview
 
 **Objective:**  
 To build a predictive model that determines if a customer will complete a booking (`booking_complete`) using structured travel-related features.
@@ -63,7 +63,7 @@ Simulated version of `customer_booking.csv` containing features like:
 
 ---
 
-## 🔍 Feature Importance
+## Feature Importance
 
 Top 5 most important features influencing booking predictions:
 
@@ -95,7 +95,7 @@ Top 5 most important features influencing booking predictions:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install all packages with:
 
