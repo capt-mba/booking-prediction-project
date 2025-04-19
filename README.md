@@ -1,10 +1,10 @@
-# 🧠 Customer Booking Prediction
+# Customer Booking Prediction
 
 This project uses machine learning to predict whether a customer will complete a flight booking based on travel intent data such as booking origin, trip type, and lead time.
 
 ---
 
-## 📊 Project Overview
+##Project Overview
 
 **Objective:**  
 To build a predictive model that determines if a customer will complete a booking (`booking_complete`) using structured travel-related features.
@@ -17,7 +17,7 @@ Simulated version of `customer_booking.csv` containing features like:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas, NumPy
@@ -27,7 +27,7 @@ Simulated version of `customer_booking.csv` containing features like:
 
 ---
 
-## ⚙️ Machine Learning Workflow
+## Machine Learning Workflow
 
 1. **Data Cleaning**
    - Checked missing values
@@ -50,7 +50,7 @@ Simulated version of `customer_booking.csv` containing features like:
 
 ---
 
-## 📈 Cross-Validation Results
+## Cross-Validation Results
 
 | Metric     | Score   |
 |------------|---------|
@@ -77,7 +77,7 @@ Top 5 most important features influencing booking predictions:
 
 ---
 
-## 🖼 Project Files
+## Project Files
 
 - `/notebooks/model_training.ipynb` — Full training pipeline and evaluation
 - `/images/feature_importance.png` — Model interpretation chart
@@ -86,7 +86,7 @@ Top 5 most important features influencing booking predictions:
 
 ---
 
-## 📌 What I Learned
+## What I Learned
 
 - Building interpretable machine learning pipelines using Scikit-learn
 - Handling imbalanced data with SMOTE
